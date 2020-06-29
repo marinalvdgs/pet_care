@@ -1,17 +1,15 @@
-# pets_shelter
+# PetCare
 
-A new Flutter application.
+Flutter application is designed to save the planet through the rescue of homeless animals - take wards and track visits, or take it home.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+Every day I see flocks of stray dogs and cats that need help. There are no places for new pets in the shelters, and there is not enough funding to provide all the necessary pets. The idea of my app is to help shelters talk about themselves, introduce their wards and find volunteer help. Users can choose a pet and take care of it, and later, maybe, take it home. 
 
-A few resources to get you started if this is your first Flutter project:
+- [Video on youtube](https://www.youtube.com/watch?v=qKnwXX9md0o)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pet_care
+![pets screen](Screenshot1.png)
+
+![user screen](Screenshot2.png)
