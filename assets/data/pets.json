@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "animal": "dog",
+    "sex": "male",
+    "name": "Lucky",
+    "age": 2,
+    "breed": "",
+    "description": "Good boy looking for a family!",
+    "photo": "https://pets.mail.ru/pre_rect840x0_resize/pic/wysiwyg/2019/07/25/dog-2867887_1280.jpg"
+  },
+  {
+    "id": 2,
+    "animal": "dog",
+    "sex": "female",
+    "name": "Daisy",
+    "age": 5,
+    "breed": "Labrador retriever",
+    "description": "Daisy loves playing with children and lying in the sun",
+    "photo": "https://zooclub.ru/attach/1916.jpg"
+  },
+  {
+    "id": 3,
+    "animal": "cat",
+    "sex": "male",
+    "name": "Tiger",
+    "age": 1,
+    "breed": "",
+    "description": "Cute ginger cat",
+    "photo": "https://i.pinimg.com/originals/6f/f0/45/6ff0454c43095c58cdc90a9e5c1b69ac.jpg"
+  },
+  {
+    "id": 4,
+    "animal": "dog",
+    "sex": "female",
+    "name": "Coco",
+    "age": 1,
+    "breed": "Great Dane",
+    "description": "Look at it charming eyes!",
+    "photo": "https://pets.mail.ru/pic/pets/2019/11/21/71092416_2805325586145949_4135255203098453193_n.jpg"
+  },
+  {
+    "id": 5,
+    "animal": "cat",
+    "sex": "male",
+    "name": "Smokey",
+    "age": 3,
+    "breed": "British Shorthair",
+    "description": "Chubby boy",
+    "photo": "https://www.catbreedslist.com/uploads/allimg/cat-pictures/British-Shorthair-2.jpg"
+  },
+  {
+    "id": 6,
+    "animal": "cat",
+    "sex": "female",
+    "name": "Princess",
+    "age": 1,
+    "breed": "sphynx",
+    "description": "Princess has a dood heart :)",
+    "photo": "https://i.pinimg.com/originals/20/f7/35/20f735f656f42402f22a5d4106dcef2a.jpg"
+  },
+  {
+    "id": 7,
+    "animal": "dog",
+    "sex": "male",
+    "name": "Bear",
+    "age": 6,
+    "breed": "Chow chow",
+    "description": "Did you think it was a bear? But no, it is a doggie!",
+    "photo": "https://besthqwallpapers.com/Uploads/22-9-2018/66543/thumb2-chow-chow-pets-close-up-furry-dog-gray-chow-chow.jpg"
+  },
+  {
+    "id": 8,
+    "animal": "dog",
+    "sex": "female",
+    "name": "Sasha",
+    "age": 2,
+    "breed": "",
+    "description": "Good girl is looking for a family",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Poligraf_Poligrafovich.JPG"
+  },
+  {
+    "id": 9,
+    "animal": "cat",
+    "sex": "female",
+    "name": "Lucy",
+    "age": 1,
+    "breed": "",
+    "description": "Lucy loves to watch birds :)",
+    "photo": "https://cache.adverto.sale/files/images/original/00/a5/00a5322aedks6juu061n6203.jpg"
+  },
+  {
+    "id": 10,
+    "animal": "cat",
+    "sex": "male",
+    "name": "Oreo",
+    "age": 4,
+    "breed": "",
+    "description": "Oreo will bring you luck :)",
+    "photo": "https://media.daysoftheyear.com/20171223130148/black-cat-day-1-scaled.jpg"
+  }
+]
